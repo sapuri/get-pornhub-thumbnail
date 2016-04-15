@@ -1,2 +1,2 @@
 # get-pornhub-thumbnail
-PornHubの動画サムネイルを16枚抽出するツール
+PornHubの動画URLからサムネイルを16枚抽出する
