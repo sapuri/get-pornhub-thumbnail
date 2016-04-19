@@ -2,7 +2,7 @@
 /* 動画URLからサムネイルを取得 */
 
 // ライブラリの読み込み
-require_once('libraries/simple_html_dom.php');
+require_once('simple_html_dom.php');
 
 /**
  * 指定されたURLのページのDOMオブジェクトを生成 (file_get_htmlの代わり)
